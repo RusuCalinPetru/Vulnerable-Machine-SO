@@ -6,3 +6,4 @@ Crearea unor challenge-uri tip CTF pentru laboratorul de SO
 - https://www.youtube.com/watch?v=8X4u9sca3Io&t=529s
 - am setat cheia ssh pentru conexiunea la github 
 - am instalat masina de ubuntu si am configurat-o 
+- stabilire parcurgere ctf
