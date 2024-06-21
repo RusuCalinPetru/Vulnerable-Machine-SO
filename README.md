@@ -8,6 +8,6 @@ Crearea unor challenge-uri tip CTF pentru laboratorul de SO
 - am instalat masina de ubuntu si am configurat-o 
 - stabilire parcurgere ctf
 
--#19.06 - creare challenge 0,1
--#20.06 - creare challenge 2,3
--#21.06 -creare challenge 4,5,6
+- #19.06 - creare challenge 0,1
+- #20.06 - creare challenge 2,3
+- #21.06 -creare challenge 4,5,6
